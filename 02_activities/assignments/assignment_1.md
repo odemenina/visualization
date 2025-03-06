@@ -2,6 +2,10 @@
 
 ## Assignment 1: Participation (Ongoing)
 
+Class 1: Intro and overview, getting started with matplotlib
+File assignment_1_Feb-25_2025 create to include the content of day 1
+
+
 ### Requirements:
 
 - During every class, follow along with sample code from the slides. All code that you should be running in Python is formatted as follows:
