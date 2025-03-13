@@ -89,6 +89,10 @@ I think some ‘underwater labour’ actually happened here and some behind-the-
 
 
 
+
+
+
+
 Diagram 2:
 I downloaded the file from [Ontario’s Open Data Catalogue] with  url = 'https://data.ontario.ca/dataset/f3e63186-8401-4c9e-a490-1f9e7d7eb00b/resource/933f4858-4af9-491d-8ded-1375483bc5e2/download/critical_injuries_cy_2011_2023.csv'
 
