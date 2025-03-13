@@ -19,6 +19,7 @@ Let's start with a good visualization example.
 
 
 
+
 Good Visualization Example: 
 I evaluated diagram ![alt text](<persent change in cases deaths per 10 000  US pop 2000-2016 cancer_drops.jpg>) as a good one!
 The attached image showcases percentage change in incidence and mortality rates for various types of tumors per 100,000 US population from 2000 to 2016. 
