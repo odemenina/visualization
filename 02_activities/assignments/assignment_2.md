@@ -12,7 +12,7 @@
       ```
       Your answer...
 
-Explain in details along with readings and other scholarly sources, as needed) why you classified that visualization as good or bad. 300 words for your good example and 500 for bad one
+Explain in details along with readings and other scholarly sources, (as needed) why you classified that visualization as good or bad. 300 words for your good example and 500 for bad one
 Let's start with a good visualization example.
 
 
@@ -28,7 +28,11 @@ This visualization is good one for several reasons:
 
 2. Clarity and Readability: The diagram effectively represents complex data in a clear, contextual and visually appealing way. The x-axis (%) and y-axis (tumor type) are clear and readable, tumor types are distinguished by colors, percentage changes for each tumor type are clearly shown.
 
-3. Scale: The scale is appropriate for the data being presented, allowing for clear visualization. 
+3. Scale: The scale is appropriate for the data being presented, allowing for clear visualization. It shows how the incidence and mortality rates of different cancers have changed over time.At the same time scale aids in demonstrating the overall trends and patterns in the data, such as:
+- steep increases in certain cancer types, which may indicate emerging health concerns.
+- gradual declines in other types, perhaps reflecting successful prevention or treatment efforts.
+- stable rates in some cancers, suggesting consistent factors influencing their incidence and mortality.
+An appropriate scale in this visualization is crucial for accurately representing data, emphasizing important trends, and ensuring clarity of results.
 
 4. Legends and Annotations: The diagram includes labels that are consistent, well-organized and let viewers make distinguish between different types of tumors and color-coded data points. 
 
